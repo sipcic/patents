@@ -33,6 +33,9 @@
 
 **[4]**	US **[P201901423](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95334207)** “Domain-Specific Language (DSL) with internalized metadata for authenticated formatting and processing of message content”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2019-02-20 • Filed 2019-02-20 • Published 2020-09-29.
 
+**[5]**	**[P202002845](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96083820)** “Efficient communication path determination based on urgency of message”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2020-04-02 • Filed 2020-04-02 • Published 2020-11-13.
+
+
 
 ### 3 Filed
 
@@ -48,6 +51,10 @@
 
 **[1]**	**[P201904185](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95667130)** “Assistive Method for Follow-up and Future Presentations’, Slobodan Sipcic International Business Machines Corporation, Priority 2019-05-13
 
+**[2]**	**[P202002733](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081472)** “Method for Network Bandwidth Conservation during Video Conferencing”, Slobodan Sipcic International Business Machines Corporation, Priority 2020-03-31.
+
+**[3]**	**[P202002804](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081540)** “Digital twin objects for product packaging compatibility”, Slobodan Sipcic International Business Machines Corporation, Priority 2020-03-31.
+
 ### 5 Awaiting Pre Ranking
 
 **[1]**	**[P202004495](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96091852)** “Optimize Phone Alert Settings based on Current Environment”, 2020-04-10.
@@ -56,10 +63,8 @@
 
 **[3]**	**[P202003094](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088772)** “Cognitive coordination between trusted people for resources optimization”, 2020-040-08.
 
-**[4]**	**[P202002845](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96083820)** “Efficient communication path determination based on urgency of message”, 2020-04-02.
 
-**[5]**	**[P202002804](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081540)** “Digital twin objects for product packaging compatibility”, 2020-03-31.
 
-**[6]**	**[P202002733](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081472)** “Method for Network Bandwidth Conservation during Video Conferencing”, 2020-03-31.
+
 
 

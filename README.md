@@ -35,6 +35,7 @@
 
 **[5]**	**[P202002845](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96083820)** “Efficient communication path determination based on urgency of message”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2020-04-02 • Filed 2020-04-02 • Published 2020-11-13.
 
+**[6]**	**[P202003094](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088772)** “Cognitive coordination between trusted people for resources optimization”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2020-040-08. • Filed 2020-04-08 • Published 2020-11-20.
 
 
 ### 3 Filed
@@ -55,13 +56,11 @@
 
 **[3]**	**[P202002804](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081540)** “Digital twin objects for product packaging compatibility”, Slobodan Sipcic International Business Machines Corporation, Priority 2020-03-31.
 
+**[4]**	**[P202003095](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088780)** “Method to profile virtual conference participants to enhance meeting interactions”, Slobodan Sipcic International Business Machines Corporation, Priority 2020-04-08.
+
 ### 5 Awaiting Pre Ranking
 
 **[1]**	**[P202004495](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96091852)** “Optimize Phone Alert Settings based on Current Environment”, 2020-04-10.
-
-**[2]**	**[P202003095](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088780)** “Method to profile virtual conference participants to enhance meeting interactions”, 2020-04-08.
-
-**[3]**	**[P202003094](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088772)** “Cognitive coordination between trusted people for resources optimization”, 2020-040-08.
 
 
 

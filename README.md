@@ -16,11 +16,13 @@
 
 ### 1 Granted
 
-**[1]**	US **[US10719378B2](https://patents.justia.com/patent/10719378)** “Domain-specific language for processing message content”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2018-8-29 • Filed 2018-8-29 • Granted 2020-07-21
+**[1]**	US **[US11212129B1](https://patents.justia.com/patent/11212129)** “Profile virtual conference attendees to enhance meeting interactions” Priority 2021-04-27 • Filed 2021-04-27 • Granted 2021-12-28
 
-**[2]**	US **[US10027722B2](https://patentimages.storage.googleapis.com/ae/24/ae/6931c226e4a159/US10027722.pdf)** “Communication transaction continuity using multiple cross-modal services”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2014-01-09 • Filed 2014-01-09 • Granted 2018-07-17
+**[2]**	US **[US10719378B2](https://patents.justia.com/patent/10719378)** “Domain-specific language for processing message content”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2018-8-29 • Filed 2018-8-29 • Granted 2020-07-21
 
-**[3]**	US **[US9338291B2](https://patentimages.storage.googleapis.com/4d/b0/49/7eface0bfeeefe/US9338291.pdf)** “Using an ISDN message header to support time-zone identification”, Slobodan Sipcic International Business Machines Corporation Priority 2014-05-07 • Filed 2014-05-07 • Granted 2016-05-10
+**[3]**	US **[US10027722B2](https://patentimages.storage.googleapis.com/ae/24/ae/6931c226e4a159/US10027722.pdf)** “Communication transaction continuity using multiple cross-modal services”, Slobodan R. Sipcic International Business Machines Corporation, Priority 2014-01-09 • Filed 2014-01-09 • Granted 2018-07-17
+
+**[4]**	US **[US9338291B2](https://patentimages.storage.googleapis.com/4d/b0/49/7eface0bfeeefe/US9338291.pdf)** “Using an ISDN message header to support time-zone identification”, Slobodan Sipcic International Business Machines Corporation Priority 2014-05-07 • Filed 2014-05-07 • Granted 2016-05-10
 
 
 ### 2 Published
@@ -44,17 +46,19 @@
 
 ### 3 Filed
 
-**[1]**	**[P202003095](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088780)** “Method to profile virtual conference participants to enhance meeting interactions”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2021-05-19
+**[1]**	**[P202103722](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96150517)** “Method and Process for Agile Development/Deployment of Microservices for Cloud and Kubernetes”, Slobodan Sipcic International Business Machines Corporation, 2021-06-29.
 
-**[2]**	**[P202002804](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081540)** “Digital twin objects for product packaging compatibility”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2021-05-26
+**[2]**	**[P202003095](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96088780)** “Method to profile virtual conference participants to enhance meeting interactions”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2021-05-19
 
-**[3]**	**[P201904927](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95703253)** “Method and Process for Dynamic Tag-based Parental Control”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2019-06-06
+**[3]**	**[P202002804](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96081540)** “Digital twin objects for product packaging compatibility”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2021-05-26
 
-**[4]**	**[P201805604](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95076524)** “Domain-Specific Language (DSL) with internalized metadata for formatting and processing of message content”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2018-07-20
+**[4]**	**[P201904927](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95703253)** “Method and Process for Dynamic Tag-based Parental Control”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2019-06-06
 
-**[5]**	**[P201804768](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95037801)** “AVRO Encrypted Field to Preserve original format for commercial use” • Filed 2018-06-22
+**[5]**	**[P201805604](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95076524)** “Domain-Specific Language (DSL) with internalized metadata for formatting and processing of message content”, Slobodan R. Sipcic International Business Machines Corporation • Filed 2018-07-20
 
-**[6]**	**[P201809213](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95233467)** “Using Speech Validation to Enhance Contact Center Whisper Function”, Slobodan Sipcic International Business Machines Corporation • Filed 2018-10-28
+**[6]**	**[P201804768](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95037801)** “AVRO Encrypted Field to Preserve original format for commercial use” • Filed 2018-06-22
+
+**[7]**	**[P201809213](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=95233467)** “Using Speech Validation to Enhance Contact Center Whisper Function”, Slobodan Sipcic International Business Machines Corporation • Filed 2018-10-28
 
 ### 4 Awaiting Search
 
@@ -63,7 +67,6 @@
 
 ### 5 Awaiting Pre Ranking
 
-**[1]**	**[P202103722](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96150517)** “Method and Process for Agile Development/Deployment of Microservices for Cloud and Kubernetes”, Slobodan Sipcic International Business Machines Corporation, 2021-06-29.
 
 **[2]**	**[P202004495](https://ibm.anaqua.com/anaqua/Survey/Survey.aspx?SurveyAnswerGroupId=96091852)** “Optimize Phone Alert Settings based on Current Environment”, Slobodan Sipcic International Business Machines Corporation, 2020-04-10.
 
